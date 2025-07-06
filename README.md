@@ -84,10 +84,10 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruvgarg4521&show_icons=true&locale=en" alt="dhruvgarg4521"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvgarg4521&show_icons=true&locale=en&layout=compact" alt="dhruvgarg4521"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruvgarg4521&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&locale=en" alt="dhruvgarg4521"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvgarg4521&show_icons=true&locale=en&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&layout=compact" alt="dhruvgarg4521"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvgarg4521&" alt="dhruvgarg4521"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvgarg4521&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="dhruvgarg4521"/>
   
 </div>
 
