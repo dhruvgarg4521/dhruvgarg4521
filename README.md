@@ -84,8 +84,8 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvgarg4521&show_icons=true&locale=en&layout=compact" alt="dhruvgarg4521"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruvgarg4521&show_icons=true&locale=en" alt="dhruvgarg4521"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvgarg4521&show_icons=true&locale=en&layout=compact" alt="dhruvgarg4521"/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvgarg4521&" alt="dhruvgarg4521"/>
   
